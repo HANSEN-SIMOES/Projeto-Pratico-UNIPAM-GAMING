@@ -1,0 +1,15 @@
+.bg-menu{
+    background-color: #92a0a8;
+}
+
+.navbar-navi a{
+    color: #FFFFFF !important;
+}
+
+.dropdown-menu.show{
+    background-color: #073b59;
+}
+
+.dropdown-menu.show li a:hover{
+    background-color: #080808;
+}
